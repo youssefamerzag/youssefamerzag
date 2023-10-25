@@ -1,73 +1,66 @@
-### **<div align="center">Hi 👋, I'm Youssef Amerzag</div>**  
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=900&color=FFFFFF&center=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I'm+Oussama+Roui;I'm+a+Full+Stack+Developer;Ui+Ux++%26+Graphic+Designer)](https://git.io/typing-svg)
 
-<div align="center">A passionate full stack developer from morocco</div>  
-  
+#### 🎓Software Engineering Student.<br>📚Thirsty for learning and achieving more.<br>🧩I love diving into complex problems and finding innovative solutions.<br>📍Rabat, Morocco 🇲🇦<br><br><br>
 
-<br/>  
+# 🌐 Socials:
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oussama_roui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-roui)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/oussama_roui)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/oussama.or.58)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+# 💻 Tech Stack:
 
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+#### 🎨 Front-End <br/>
+<div style='display:flex;'>
+  <img width="50" height="50" title="HTML" src="https://img.icons8.com/color/500/html-5--v1.png" alt="html-5--v1">
+  <img width="50" height="50" title="CSS" src="https://img.icons8.com/color/500/css3.png" alt="css3"/>
+  <img width="50" height="50" title="Tailwindcss" src="https://img.icons8.com/color/500/tailwindcss.png" alt="tailwindcss"/>
+  <img width="53" height="48" title="Bootstrap" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap"/>
+  <img width="50" height="50" title="JavaScript" src="https://img.icons8.com/color/500/javascript--v1.png" alt="javascript--v1"/>
+  <img width="53" height="53" title="React" src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" alt="react.js"/>
+  <img width="50" height="50" title="React Router" src="https://brandeps.com/logo-download/R/React-Router-logo-vector-01.svg" alt="react router"/>
+  <img width="50" height="50" title="Redux" src="https://brandeps.com/logo-download/R/Redux-logo-vector-01.svg" alt="redux"/>
 </div>
 
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
+#### ⚙️ Back-End <br/>
+<div style='display:flex;'>
+  <img width="50" height="50" title="PHP" src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" alt="PHP"/>
+  <img width="45" height="45" title="Python" src="https://brandeps.com/icon-download/P/Python-icon-vector-04.svg" alt="Python"/>
 </div>
 
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+#### 📂 Database <br/>
+<div style='display:flex;'>
+  <img width="50" height="50" title="MySQL" src="https://brandeps.com/icon-download/M/Mysql-icon-vector-02.svg" alt="MySQL"/>
 </div>
 
-</td></tr></table>  
+#### ✒️ Prototyping <br/>
+<div style='display:flex;'>
+  <img width="45" height="45" title="Figma" src="https://brandeps.com/logo-download/F/Figma-logo-vector-01.svg" alt="Figma"/>
+  <img width="44" height="45" title="Adobe XD" src="https://helpx.adobe.com/content/dam/help/mnemonics/xd_app_RGB_2017.svg" alt="Adobe XD"/>
+  <img width="44" height="45" title="Adobe Photoshop" src="https://brandeps.com/logo-download/A/Adobe-Photoshop-CC-logo-vector-02.svg" alt="Adobe   Photoshop"/>
+  <img width="44" height="45" title="Adobe Illustrator" src="https://brandeps.com/logo-download/A/Adobe-Illustrator-CC-logo-vector-02.svg"     
+  alt="Adobe Illustrator"/>
+</div>
 
-<br/>  
+<br><br>
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/youssefamerzag" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/youssef%20amerzag" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/https://fb.com/amerzag.youssef4" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://instagram.com/youssef_amerzag" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=youssefamerzag&show_icons=true&count_private=true&hide_border=true" align="center" /></div>    
-
-<br/>  
-
-  
-
-<br/>  
+# 📊 GitHub Stats:
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=youssefamerzag&&style=flat-square" align="center" />
-</div>  
-  
+  <br>
+  <a href="#">
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oussamaroui&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaroui&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+  </a>
+  <a>
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oussamaroui&theme=github_dark&show_icons=true" />
+  </a>
+</div>
 
-<br/>  
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=oussamaroui&icon=0&color=1)](https://visitcount.itsvg.in)
+
