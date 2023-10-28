@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=900&color=FFFFFF&center=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Amerzag;I'm+a+Full+Stack+Developer;)](https://git.io/typing-svg)
 
-#### 🎓  Full Stack Developer.<br>📚  Thirsty for learning and achieving more.<br>🧩  I love diving into complex problems and finding innovative solutions.<br>📍  Rabat, Morocco 🇲🇦<br><br><br>
+#### 🎓  Full Stack Developer.<br>📚  Thirsty for learning and achieving more.<br>🧩  I love diving into complex problems and finding innovative solutions.<br>📍   Rabat, Morocco 🇲🇦<br><br><br>
 
 # 🌐 Socials:
 
