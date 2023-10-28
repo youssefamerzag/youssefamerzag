@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=5000&pause=900&color=FFFFFF&center=true&width=950&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Amerzag;I'm+a+Full+Stack+Developer;)](https://git.io/typing-svg)
 
-#### 🎓Full Stack Developer.<br>📚Thirsty for learning and achieving more.<br>🧩I love diving into complex problems and finding innovative solutions.<br>📍Rabat, Morocco 🇲🇦<br><br><br>
+#### 🎓  Full Stack Developer.<br>📚  Thirsty for learning and achieving more.<br>🧩  I love diving into complex problems and finding innovative solutions.<br>📍  Rabat, Morocco 🇲🇦<br><br><br>
 
 # 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youssef_amerzag)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-amerzag-9ba391291/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-amerzag-9ba391291/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/amerzag.youssef4/)
 
 # 💻 Tech Stack:
