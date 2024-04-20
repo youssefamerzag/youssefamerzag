@@ -31,20 +31,3 @@
   <img width="50" height="50" title="MySQL" src="https://brandeps.com/icon-download/M/Mysql-icon-vector-02.svg" alt="MySQL"/>
   <img width="50" height="50" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
 </div>
-
-<br><br>
-
-# 📊 GitHub Stats:
-
-<div align="center">
-  <br>
-  <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=youssefamerzag&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefamerzag&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
-  </a>
-  <a>
-     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=youssefamerzag&theme=github_dark&show_icons=true" />
-  </a>
-</div>
