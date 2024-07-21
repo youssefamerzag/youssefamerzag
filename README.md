@@ -24,10 +24,8 @@
 <div style='display:flex;'>
   <img width="50" height="50" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/>
   <img width="50" height="50" title="PHP" src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" alt="PHP"/>
-</div>
-
-#### 📂 Database <br/>
-<div style='display:flex;'>
   <img width="50" height="50" title="MySQL" src="https://brandeps.com/icon-download/M/Mysql-icon-vector-02.svg" alt="MySQL"/>
   <img width="50" height="50" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 </div>
