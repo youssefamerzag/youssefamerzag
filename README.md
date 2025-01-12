@@ -4,9 +4,7 @@
 
 # 🌐 Socials: 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youssef_amerzag)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-amerzag-9ba391291/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/amerzag.youssef4/)
 
 # 💻 Tech Stack:
 
@@ -18,14 +16,17 @@
   <img width="50" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
   <img width="50" height="50" title="JavaScript" src="https://img.icons8.com/color/500/javascript--v1.png" alt="javascript--v1"/>
   <img width="50" height="50" title="React" src="https://brandeps.com/logo-download/R/React-logo-vector-01.svg" alt="react.js"/>
+  <img width="50" height="50" title="Vue" src="https://img.icons8.com/color/48/vue-js.png" alt="vue.js"/>
 </div>
 
 #### ⚙️ Back-End <br/>
 <div style='display:flex;'>
   <img width="50" height="50" src="https://img.icons8.com/nolan/64/laravel.png" alt="laravel"/>
   <img width="50" height="50" title="PHP" src="https://brandeps.com/logo-download/P/PHP-logo-vector-01.svg" alt="PHP"/>
+  <img width="50" height="50" title="JAVA" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="JAVA"/>
+  <img width="80" height="50" title="JAVA" src="https://imgs.search.brave.com/c2xSoveVrNnJqAdw2hxal71w9jP4A0Q8Sr7U8cpMhfA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzE4OTE3MjQucG5n" alt="JAVA"/>
   <img width="50" height="50" title="MySQL" src="https://brandeps.com/icon-download/M/Mysql-icon-vector-02.svg" alt="MySQL"/>
   <img width="50" height="50" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
-<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="postman"/>
   <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 </div>
